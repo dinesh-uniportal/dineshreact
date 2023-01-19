@@ -1,0 +1,8 @@
+site_name: "React Comp 1655"
+site_description: "React Comp 1655"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
